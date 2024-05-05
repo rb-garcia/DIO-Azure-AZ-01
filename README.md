@@ -37,4 +37,6 @@ Microsoft Azure: computação em nuvem - Introdução
 - Microsoft (Datacenter fisico, rede fisica, hosts fisicos)
 - Compartilhada (Depende do modelo)
 
-
+## Aprendizagem
+-  https://learn.microsoft.com/pt-br/training/paths
+-  https://learn.microsoft.com/pt-br/credentials/
